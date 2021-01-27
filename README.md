@@ -1,4 +1,6 @@
-```cd api```
+## First go to root folder.
+then,
+```npm install```
 
 ```npm start```
 
