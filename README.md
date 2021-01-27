@@ -1,6 +1,5 @@
-```
-cd api
-```
+```cd api```
+
 ```npm start```
 
 
